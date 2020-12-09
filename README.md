@@ -1,4 +1,4 @@
-# Sorts-C-
+# Sorts-Cpp
 Instructions for running the project:
 
 Run "cmake <project path>"
